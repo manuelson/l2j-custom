@@ -1,0 +1,144 @@
+[06.06.22 00:09:38] ADD AdminCreateItem 37032 Cloak of Hero(0)[268498218] Admin[268568657] 1
+[06.06.22 00:09:52] ADD AdminCreateItem 37010 GameMaster Helmet(0)[268498220] Admin[268568657] 1
+[06.06.22 00:09:59] ADD AdminCreateItem 37010 GameMaster Helmet(0)[268498221] Admin[268568657] 1
+[06.06.22 00:12:40] ADD RequestBuyItem 13540 Master Yogi's Scroll: Enchant Weapon(0)[268498663] Admin[268568657] 50
+[06.06.22 00:13:05] ADD AdminCreateItem 37032 Cloak of Hero(0)[268498801] Admin[268568657] 1
+[06.06.22 00:13:12] ADD AdminCreateItem 37017 Cloak of Giran(0)[268498803] Admin[268568657] 1
+[06.06.22 00:13:15] DESTROY Delete 37017 Cloak of Giran(0)[268498803] Admin[268568657] 1
+[06.06.22 00:13:16] ADD AdminCreateItem 37012 GameMaster Gaiters(0)[268498805] Admin[268568657] 1
+[06.06.22 00:13:21] ADD AdminCreateItem 57 Adena(850)[268568658] Admin[268568657] 1
+[06.06.22 00:13:29] ADD AdminCreateItem 57 Adena(851)[268568658] Admin[268568657] 9,999,999,999
+[06.06.22 00:13:38] ADD AdminCreateItem 57 Adena(10,000,000,850)[268568658] Admin[268568657] 1
+[06.06.22 00:13:52] ADD AdminCreateItem 37013 GameMaster Gauntlets(0)[268498812] Admin[268568657] 1
+[06.06.22 00:13:58] DESTROY Delete 1146 Squire's Shirt(0)[268568660] Admin[268568657] 1
+[06.06.22 00:14:01] DESTROY Delete 1147 Squire's Pants(0)[268568659] Admin[268568657] 1
+[06.06.22 00:14:02] ADD AdminCreateItem 37013 GameMaster Gauntlets(0)[268498813] Admin[268568657] 1
+[06.06.22 00:14:14] ADD AdminCreateItem 37011 GameMaster Breastplate(0)[268498944] Admin[268568657] 1
+[06.06.22 00:15:07] ADD RequestBuyItem 16837 Vesper Noble Helmet(0)[268499095] Admin[268568657] 1
+[06.06.22 00:15:07] ADD RequestBuyItem 16843 Vesper Noble Gaiter(0)[268499096] Admin[268568657] 1
+[06.06.22 00:15:07] ADD RequestBuyItem 16846 Vesper Noble Gauntlet(0)[268499097] Admin[268568657] 1
+[06.06.22 00:15:07] ADD RequestBuyItem 16849 Vesper Noble Boots(0)[268499098] Admin[268568657] 1
+[06.06.22 00:15:07] ADD RequestBuyItem 16840 Vesper Noble Breastplate(0)[268499099] Admin[268568657] 1
+[06.06.22 00:15:52] ADD RequestBuyItem 13061 Exclusive to Monsters (Baroness' Employee)(0)[268499106] Admin[268568657] 1
+[06.06.22 00:17:20] ADD RequestBuyItem 6613 Infinity Axe(0)[268499429] Admin[268568657] 1
+[06.06.22 00:18:25] ADD RequestBuyItem 15929 Vigwik Axe {PvP}(0)[268499576] Admin[268568657] 1
+[06.06.22 00:23:18] ADD RequestBuyItem 6656 Earring of Antharas(0)[268500344] Admin[268568657] 1
+[06.06.22 00:23:18] ADD RequestBuyItem 22173 Greater Baium's Ring(0)[268500345] Admin[268568657] 1
+[06.06.22 00:23:18] ADD RequestBuyItem 22175 Greater Blessed Earring of Zaken(0)[268500346] Admin[268568657] 1
+[06.06.22 00:23:18] ADD RequestBuyItem 22174 Greater Queen Ant's Ring(0)[268500347] Admin[268568657] 1
+[06.06.22 00:23:18] ADD RequestBuyItem 10170 Baylor's Earring(0)[268500348] Admin[268568657] 1
+[06.06.22 00:23:18] ADD RequestBuyItem 10314 Beleth's Ring(0)[268500349] Admin[268568657] 1
+[06.06.22 00:24:54] ADD RequestBuyItem 16026 Blessed Freya Necklace(0)[268500485] Admin[268568657] 1
+[06.06.22 00:27:38] ADD RequestBuyItem 10554 Forgotten Scroll - Anti-Magic Armor(0)[268500948] Admin[268568657] 1
+[06.06.22 00:27:38] ADD RequestBuyItem 10549 Forgotten Scroll - Protection of Rune(0)[268500949] Admin[268568657] 1
+[06.06.22 00:27:38] ADD RequestBuyItem 10550 Forgotten Scroll - Protection of Elemental(0)[268500950] Admin[268568657] 1
+[06.06.22 00:27:38] ADD RequestBuyItem 10551 Forgotten Scroll - Protection of Alignment(0)[268500951] Admin[268568657] 1
+[06.06.22 00:27:38] ADD RequestBuyItem 10552 Forgotten Scroll - Fighter's Will(0)[268500952] Admin[268568657] 1
+[06.06.22 00:27:38] ADD RequestBuyItem 10553 Forgotten Scroll - Archer's Will(0)[268500953] Admin[268568657] 1
+[06.06.22 00:27:38] ADD RequestBuyItem 14207 Forgotten Scroll - Deflect Magic(0)[268500954] Admin[268568657] 1
+[06.06.22 00:27:38] ADD RequestBuyItem 14200 Forgotten Scroll - Summon Imperial Phoenix(0)[268500955] Admin[268568657] 1
+[06.06.22 00:39:49] ADD RequestBuyItem 15929 Vigwik Axe {PvP}(0)[268503126] Admin[268568657] 1
+[06.06.22 00:43:37] ADD RequestBuyItem 10273 Wolf Summoning Bracelet(0)[268503782] Admin[268568657] 1
+[06.06.22 00:45:50] ADD RequestBuyItem 13392 Kratei Striped Mithril Shirt \CP\(0)[268504070] Admin[268568657] 1
+[06.06.22 00:46:55] DESTROY VisualChange 37000 Donator Coin(791)[268494532] Admin[268568657] 10
+[06.06.22 00:47:30] DESTROY VisualChange 37000 Donator Coin(781)[268494532] Admin[268568657] 10
+[06.06.22 00:47:59] ADD AdminCreateItem 37000 Donator Coin(781)[268494532] Admin[268568657] 9,999,999,999,999
+[06.06.22 00:52:07] DESTROY VisualChange 37000 Donator Coin(10,000,000,000,630)[268494532] Admin[268568657] 150
+[06.06.22 01:00:50] ADD Pickup 57 Adena(10,000,000,851)[268568658] Admin[268568657] 1,822
+[06.06.22 01:01:07] ADD Pickup 57 Adena(10,000,002,673)[268568658] Admin[268568657] 2,021
+[06.06.22 01:01:08] ADD Pickup 57 Adena(10,000,004,694)[268568658] Admin[268568657] 1,596
+[06.06.22 01:01:24] ADD Pickup 57 Adena(10,000,006,290)[268568658] Admin[268568657] 19,292
+[06.06.22 01:01:24] ADD Pickup 1881 Coarse Bone Powder(0)[268506900] Admin[268568657] 1
+[06.06.22 01:01:28] ADD Pickup 57 Adena(10,000,025,582)[268568658] Admin[268568657] 3,061
+[06.06.22 01:01:28] ADD Pickup 1881 Coarse Bone Powder(1)[268506900] Admin[268568657] 1
+[06.06.22 01:01:32] ADD Pickup 57 Adena(10,000,028,643)[268568658] Admin[268568657] 19,303
+[06.06.22 01:01:32] ADD Pickup 1831 Antidote(0)[268506909] Admin[268568657] 1
+[06.06.22 01:01:40] ADD Pickup 57 Adena(10,000,047,946)[268568658] Admin[268568657] 2,736
+[06.06.22 01:02:30] ADD Pickup 57 Adena(10,000,050,682)[268568658] Admin[268568657] 1,054
+[06.06.22 01:02:30] ADD Pickup 1872 Animal Bone(0)[268507059] Admin[268568657] 1
+[06.06.22 01:02:33] ADD Pickup 57 Adena(10,000,051,736)[268568658] Admin[268568657] 1,106
+[06.06.22 01:02:33] ADD Pickup 1872 Animal Bone(1)[268507059] Admin[268568657] 1
+[06.06.22 01:02:33] ADD Pickup 1867 Animal Skin(0)[268507062] Admin[268568657] 1
+[06.06.22 01:05:20] ADD RequestBuyItem 9180 Shadow Item - Wizard Hat \Resurrection\(0)[268507515] Admin[268568657] 1
+[06.06.22 01:06:47] ADD RequestBuyItem 15588 Elegia Sigil(0)[268507692] Admin[268568657] 1
+[06.06.22 01:06:56] DESTROY Delete 15588 Elegia Sigil(0)[268507692] Admin[268568657] 1
+[06.06.22 01:10:01] ADD RequestBuyItem 16168 Vesper Breastplate {PvP} (0)[268508126] Admin[268568657] 1
+[06.06.22 01:10:01] ADD RequestBuyItem 15584 Elegia Boots(0)[268508127] Admin[268568657] 1
+[06.06.22 01:10:01] ADD RequestBuyItem 15581 Elegia Gauntlet(0)[268508128] Admin[268568657] 1
+[06.06.22 01:10:01] ADD RequestBuyItem 15587 Elegia Shield(0)[268508129] Admin[268568657] 1
+[06.06.22 01:10:01] ADD RequestBuyItem 15578 Elegia Gaiter(0)[268508130] Admin[268568657] 1
+[06.06.22 01:11:44] ADD RequestBuyItem 20521 Divine Weapon Enchant Crystal - S grade(0)[268508463] Admin[268568657] 1,998
+[06.06.22 01:11:44] ADD RequestBuyItem 20522 Divine Armor Enchant Crystal - S grade(0)[268508464] Admin[268568657] 999
+[06.06.22 01:11:44] ADD RequestBuyItem 20519 Ancient Weapon Enchant Crystal - S grade(0)[268508465] Admin[268568657] 999
+[06.06.22 01:11:44] ADD RequestBuyItem 20520 Ancient Armor Enchant Crystal - S grade(0)[268508466] Admin[268568657] 999
+[06.06.22 01:12:00] DESTROY Enchanting 20519 Ancient Weapon Enchant Crystal - S grade(998)[268508465] Admin[268568657] 1
+[06.06.22 01:12:15] DESTROY Enchanting 20519 Ancient Weapon Enchant Crystal - S grade(997)[268508465] Admin[268568657] 1
+[06.06.22 01:12:32] DESTROY Enchanting 20519 Ancient Weapon Enchant Crystal - S grade(996)[268508465] Admin[268568657] 1
+[06.06.22 01:12:39] DESTROY Enchanting 20519 Ancient Weapon Enchant Crystal - S grade(995)[268508465] Admin[268568657] 1
+[06.06.22 01:12:45] DESTROY Enchanting 20519 Ancient Weapon Enchant Crystal - S grade(994)[268508465] Admin[268568657] 1
+[06.06.22 01:13:07] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,997)[268508463] Admin[268568657] 1
+[06.06.22 01:13:13] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,996)[268508463] Admin[268568657] 1
+[06.06.22 01:13:27] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,995)[268508463] Admin[268568657] 1
+[06.06.22 01:13:35] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,994)[268508463] Admin[268568657] 1
+[06.06.22 01:13:41] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,993)[268508463] Admin[268568657] 1
+[06.06.22 01:13:47] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,992)[268508463] Admin[268568657] 1
+[06.06.22 01:13:59] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,991)[268508463] Admin[268568657] 1
+[06.06.22 01:14:06] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,990)[268508463] Admin[268568657] 1
+[06.06.22 01:14:13] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,989)[268508463] Admin[268568657] 1
+[06.06.22 01:14:34] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,988)[268508463] Admin[268568657] 1
+[06.06.22 01:14:49] DESTROY Enchanting 20521 Divine Weapon Enchant Crystal - S grade(1,987)[268508463] Admin[268568657] 1
+[06.06.22 01:15:23] DESTROY VisualChange 37000 Donator Coin(10,000,000,000,480)[268494532] Admin[268568657] 150
+[06.06.22 01:33:06] DESTROY SchemeBuffer 57 Adena(9,999,952,842)[268568658] Admin[268568657] 100,000
+[06.06.22 01:33:10] DESTROY SchemeBuffer 57 Adena(9,999,942,842)[268568658] Admin[268568657] 10,000
+[06.06.22 05:06:43] DESTROY CheckHeroWeapon 6613 Infinity Axe(0)[268499429] Admin[268568657] 1
+[06.06.22 05:06:43] DESTROY removeCloak 37032 Cloak of Hero(0)[268495441] Admin[268568657] 1
+[06.06.22 05:16:18] ADD RequestBuyItem 1467 Soulshot: S-grade(0)[268549076] Admin[268568657] 1,000
+[06.06.22 05:16:18] ADD RequestBuyItem 2514 Spiritshot: S-grade(0)[268549077] Admin[268568657] 1,000
+[06.06.22 05:20:17] DESTROY Observe 57 Adena(9,999,942,762)[268568658] Admin[268568657] 80
+[06.06.22 05:20:37] DESTROY Observe 57 Adena(9,999,942,682)[268568658] Admin[268568657] 80
+[06.06.22 05:20:53] DESTROY Observe 57 Adena(9,999,942,602)[268568658] Admin[268568657] 80
+[06.06.22 05:21:09] DESTROY Observe 57 Adena(9,999,942,522)[268568658] Admin[268568657] 80
+[06.06.22 05:21:34] DESTROY Observe 57 Adena(9,999,942,442)[268568658] Admin[268568657] 80
+[06.06.22 05:21:49] DESTROY Observe 57 Adena(9,999,942,362)[268568658] Admin[268568657] 80
+[06.06.22 05:22:07] DESTROY Observe 57 Adena(9,999,942,282)[268568658] Admin[268568657] 80
+[06.06.22 05:23:29] DESTROY Observe 57 Adena(9,999,942,202)[268568658] Admin[268568657] 80
+[06.06.22 05:30:48] DESTROY deleted 37000 Donator Coin(10,000,000,000,455)[268494532] Admin[268568657] 25
+[06.06.22 05:30:54] DESTROY deleted 37000 Donator Coin(10,000,000,000,430)[268494532] Admin[268568657] 25
+[06.06.22 05:30:57] DESTROY deleted 37000 Donator Coin(10,000,000,000,405)[268494532] Admin[268568657] 25
+[06.06.22 05:31:00] DESTROY deleted 37000 Donator Coin(10,000,000,000,380)[268494532] Admin[268568657] 25
+[06.06.22 05:31:06] DESTROY deleted 37000 Donator Coin(10,000,000,000,355)[268494532] Admin[268568657] 25
+[06.06.22 05:39:50] DESTROY removeCloak 37032 Cloak of Hero(0)[268494827] Admin[268568657] 1
+[06.06.22 08:00:36] DESTROY removeCloak 37032 Cloak of Hero(0)[268494829] Admin[268568657] 1
+[06.06.22 08:02:21] DESTROY VisualChange 37000 Donator Coin(10,000,000,000,205)[268494532] Admin[268568657] 150
+[06.06.22 08:06:30] ADD RequestBuyItem 6673 Festival Coin(0)[268505434] Admin[268568657] 9,999
+[06.06.22 08:06:34] DESTROY Multisell 6673 Festival Coin(9,499)[268505434] Admin[268568657] 500
+[06.06.22 08:06:34] ADD Multisell 38031 Cloak of Hero White(0)[268505564] Admin[268568657] 1
+[06.06.22 08:06:46] DESTROY Multisell 6673 Festival Coin(9,399)[268505434] Admin[268568657] 100
+[06.06.22 08:06:46] ADD Multisell 21583 Festival's Cloak - True Black(0)[268505565] Admin[268568657] 1
+[06.06.22 08:06:50] DESTROY Multisell 6673 Festival Coin(8,899)[268505434] Admin[268568657] 500
+[06.06.22 08:06:50] ADD Multisell 38032 Cloak of Hero Black(0)[268505566] Admin[268568657] 1
+[06.06.22 08:09:49] DESTROY deleted 6673 Festival Coin(8,889)[268505434] Admin[268568657] 10
+[06.06.22 08:10:06] DESTROY deleted 6673 Festival Coin(8,879)[268505434] Admin[268568657] 10
+[06.06.22 08:10:12] DESTROY deleted 6673 Festival Coin(8,869)[268505434] Admin[268568657] 10
+[06.06.22 08:10:18] DESTROY deleted 6673 Festival Coin(8,859)[268505434] Admin[268568657] 10
+[06.06.22 08:10:27] DESTROY deleted 6673 Festival Coin(8,849)[268505434] Admin[268568657] 10
+[06.06.22 08:12:13] DESTROY Multisell 6673 Festival Coin(8,549)[268505434] Admin[268568657] 300
+[06.06.22 08:12:13] ADD Multisell 21126 Warrior's Helmet(0)[268506338] Admin[268568657] 1
+[06.06.22 08:13:24] ADD AdminCreateItem 37010 GameMaster Helmet(0)[268506505] Admin[268568657] 1
+[06.06.22 08:13:30] ADD AdminCreateItem 37011 GameMaster Breastplate(0)[268506507] Admin[268568657] 1
+[06.06.22 08:13:39] ADD AdminCreateItem 37014 GameMaster Boots(0)[268506645] Admin[268568657] 1
+[06.06.22 08:13:55] ADD AdminCreateItem 37003 Special Healing Potion(0)[268506649] Admin[268568657] 1
+[06.06.22 08:15:50] DESTROY removeCloak 37032 Cloak of Hero(0)[268494833] Admin[268568657] 1
+[06.06.22 08:29:01] ADD AdminCreateItem 37000 Donator Coin(10,000,000,000,205)[268494532] Admin[268568657] 1
+[06.06.22 08:29:09] ADD AdminCreateItem 37000 Donator Coin(10,000,000,000,206)[268494532] Admin[268568657] 500
+[06.06.22 08:31:01] ADD AdminCreateItem 37000 Donator Coin(10,000,000,000,706)[268494532] Admin[268568657] 500
+[06.06.22 08:32:13] DESTROY SendPost 57 Adena(9,999,941,102)[268568658] Admin[268568657] 1,100
+[06.06.22 08:32:13] REMOVE SendPost 37000 Donator Coin(10,000,000,000,706)[268494532] Admin[268568657] 500
+[06.06.22 08:32:29] ADD PostReceive 37000 Donator Coin(0)[268509795] GMCloud[268562506] 500
+[06.06.22 08:33:50] DESTROY VisualChange 37000 Donator Coin(350)[268509795] GMCloud[268562506] 150
+[06.06.22 08:35:32] DESTROY VisualChange 37000 Donator Coin(200)[268509795] GMCloud[268562506] 150
+[06.06.22 08:35:52] DESTROY VisualChange 37000 Donator Coin(50)[268509795] GMCloud[268562506] 150
+[06.06.22 08:36:10] DESTROY VisualChange 37000 Donator Coin(30)[268509795] GMCloud[268562506] 20
+[06.06.22 08:37:38] EXCHANGE_LOSE DonatePremium_1 37000 Donator Coin(0)[268509795] GMCloud[268562506] 30
+[06.06.22 08:40:33] ADD AdminCreateItem 37010 GameMaster Helmet(0)[268510991] Admin[268568657] 1
+[06.06.22 08:40:37] ADD AdminCreateItem 37010 GameMaster Helmet(0)[268511175] Admin[268568657] 1

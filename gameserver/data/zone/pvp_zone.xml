@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<zone name="[pvp_zone]" type="PVP_ZONE">
+		<polygon>
+			<coords loc="12248 250952 -1760 2400"/>
+			<coords loc="12248 250952 -1760 2400"/>
+			<coords loc="13704 250856 -1946 2400"/>
+			<coords loc="13752 256440 -2025 2400"/>
+			<coords loc="10488 244552 -2028 2400"/>
+			<coords loc="4328 249992 -1707 2400"/>
+			<coords loc="9464 253848 -1753 2400"/>
+			<coords loc="9304 250152 -1976 2400"/>
+			<coords loc="8280 248520 -1970 2400"/>
+			<coords loc="11944 248888 -2103 2400"/>
+			<coords loc="10200 247672 -1976 2400"/>
+		</polygon>
+	</zone>
+</list>

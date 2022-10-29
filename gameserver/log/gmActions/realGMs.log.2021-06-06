@@ -1,0 +1,61 @@
+[06.06.21 22:28:31] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:28:34] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:28:40] SUCCESS Admin[268482125] admin_show_html teleports/location/primeval.htm
+[06.06.21 22:28:43] SUCCESS Admin[268482125] admin_move_to 11235 -24026 -3640
+[06.06.21 22:29:03] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:29:04] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:29:20] SUCCESS Admin[268482125] admin_move_to 187882 -27120 -3500
+[06.06.21 22:29:29] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:29:36] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:30:08] SUCCESS Admin[268482125] admin_add_exp_sp
+[06.06.21 22:30:34] SUCCESS Admin[268482125] -> Admin[268482125] admin_add_exp_sp 999999 999999
+[06.06.21 22:30:49] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:30:50] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:30:51] SUCCESS Admin[268482125] admin_show_html teleports/town.htm
+[06.06.21 22:30:55] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:30:58] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:31:11] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:31:12] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:31:21] SUCCESS Admin[268482125] admin_move_to 186461 -1497 -3500
+[06.06.21 22:31:41] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:31:42] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:31:55] SUCCESS Admin[268482125] admin_move_to 160487 -2658 -3500
+[06.06.21 22:32:17] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:32:18] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:32:27] SUCCESS Admin[268482125] admin_move_to 163986 -26700 -3500
+[06.06.21 22:32:31] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:35:20] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:35:22] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:35:43] SUCCESS Admin[268482125] admin_move_to 78248 245800 3600
+[06.06.21 22:35:52] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:35:52] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:35:54] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:35:55] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:35:56] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:35:57] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:35:59] SUCCESS Admin[268482125] admin_show_html teleports/town.htm
+[06.06.21 22:36:01] SUCCESS Admin[268482125] admin_show_html teleports/town/giran.htm
+[06.06.21 22:36:04] SUCCESS Admin[268482125] admin_move_to 82698 148638 -3473
+[06.06.21 22:36:09] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:36:20] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:36:25] SUCCESS Admin[268482125] admin_show_html teleports/location/primeval.htm
+[06.06.21 22:36:27] SUCCESS Admin[268482125] admin_move_to 11235 -24026 -3640
+[06.06.21 22:37:32] SUCCESS Admin[268482125] admin_recall 12345
+[06.06.21 22:37:38] SUCCESS Admin[268482125] -> Admin[268482125] admin_vis
+[06.06.21 22:38:15] SUCCESS Admin[268482125] admin_teleportto Admin
+[06.06.21 22:38:18] SUCCESS Admin[268482125] admin_teleportto 12345
+[06.06.21 22:38:35] SUCCESS Admin[268482125] -> 12345[268483357] admin_admin
+[06.06.21 22:38:37] SUCCESS Admin[268482125] -> 12345[268483357] admin_show_moves
+[06.06.21 22:38:39] SUCCESS Admin[268482125] -> 12345[268483357] admin_show_html teleports/instance.htm
+[06.06.21 22:38:41] SUCCESS Admin[268482125] -> 12345[268483357] admin_show_html teleports.htm
+[06.06.21 22:38:44] SUCCESS Admin[268482125] -> 12345[268483357] admin_show_html teleports/instance.htm
+[06.06.21 22:38:53] SUCCESS Admin[268482125] -> 12345[268483357] admin_show_html teleports.htm
+[06.06.21 22:39:04] SUCCESS Admin[268482125] -> 12345[268483357] admin_show_html teleports/epilogue.htm
+[06.06.21 22:39:08] SUCCESS Admin[268482125] admin_move_to 76860 -125169 -3414
+[06.06.21 22:39:18] SUCCESS Admin[268482125] admin_admin
+[06.06.21 22:39:19] SUCCESS Admin[268482125] admin_show_moves
+[06.06.21 22:39:21] SUCCESS Admin[268482125] admin_show_html teleports/location/hellbound.htm
+[06.06.21 22:39:25] SUCCESS Admin[268482125] admin_move_to 8902 251884 -2028
+[06.06.21 22:39:45] SUCCESS Admin[268482125] admin_instant_move
+[06.06.21 22:39:48] SUCCESS Admin[268482125] admin_recall 12345
+[06.06.21 22:40:36] SUCCESS Admin[268482125] -> 12345[268483357] admin_gmspeed 4
