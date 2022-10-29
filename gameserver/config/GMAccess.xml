@@ -2,7 +2,7 @@
 <list>
 
 	<char>
-		<PlayerID set="-1"/>
+		<PlayerID set="268481811"/>
 		<IsGM set="true"/>
 		<CanUseGMCommand set="true"/>
 		<CanAnnounce set="true"/>
@@ -38,7 +38,7 @@
 		<Heal set="true"/>
 		<Unblock set="true"/>
 		<CanChangeClass set="true"/>
-		<BlockInventory set="false"/>
+		<BlockInventory set="true"/>
 		<CanGmEdit set="true"/>
 		<IsEventGm set="true"/>
 		<CanReload set="true"/>
